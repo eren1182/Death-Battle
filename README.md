@@ -1,5 +1,5 @@
 <h> Death-Battle</h>
-<img src="Startscreen.png" alt="Start Screen" style="width:600px;height403px;">
+<img src="Startscreen.png" alt="Start Screen" style="width:600px;height403px;border:0;">
 <p>Python Download Video Link<p>
 <a>https://www.youtube.com/watch?v=_GikMdhAhv0&feature=youtu.be
 <p>PyGame Wheel File<p>
