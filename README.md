@@ -1,3 +1,6 @@
 <h> Death-Battle</h>
-<p>file:///Z:/death%20battle/Death%20battle%20images/Start%20screen.PNG</p>
+<img src="Startscreen.png" alt="Start Screen" style="width:600px;height403px;">
+<p>Python Download Video Link<p>
 <a>https://www.youtube.com/watch?v=_GikMdhAhv0&feature=youtu.be
+<p>PyGame Wheel File<p>
+<a>http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame
